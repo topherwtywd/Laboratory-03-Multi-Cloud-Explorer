@@ -3,7 +3,7 @@
 ## Mission 3: Become a Multi-Cloud Explorer
 
 **Student:** Cristopher E. Oduya  
-**Course:** BSIT
+**Course:** BSIT-4K
 **Laboratory Activity:** 03
 
 ## Mission Overview
