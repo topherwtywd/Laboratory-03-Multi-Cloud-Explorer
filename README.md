@@ -3,8 +3,8 @@
 
 ## Mission 3: Become a Multi-Cloud Explorer
 
-**Student:** Your Name  
-**Course:** CCM101 – Cloud Computing  
+**Student:Cristopher E. Oduya
+**Course:BSIT
 **Laboratory Activity:** 03
 
 ## Mission Overview
