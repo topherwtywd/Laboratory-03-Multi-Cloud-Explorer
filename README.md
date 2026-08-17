@@ -1,10 +1,9 @@
-
 # Laboratory 03 – Multi-Cloud Explorer
 
 ## Mission 3: Become a Multi-Cloud Explorer
 
-**Student:Cristopher E. Oduya
-**Course:BSIT
+**Student:** Cristopher E. Oduya  
+**Course:** BSIT
 **Laboratory Activity:** 03
 
 ## Mission Overview
